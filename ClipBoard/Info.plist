@@ -4,7 +4,7 @@
 <dict>
 	<key>ALTAppGroups</key>
 	<array>
-		<string>group.dev.minsoo.Clip</string>
+		<string>group.dev.minsoo.Clip.ios</string>
 	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
