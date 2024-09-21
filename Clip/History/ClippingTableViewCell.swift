@@ -24,6 +24,9 @@ class ClippingTableViewCell: UITableViewCell
     {
         super.awakeFromNib()
         
+        self.titleLabel.tintColor = .clipPink
+        self.dateLabel.tintColor = .clipPink
+
         self.clippingView.layer.cornerRadius = 10
         self.clippingView.layer.masksToBounds = true
         

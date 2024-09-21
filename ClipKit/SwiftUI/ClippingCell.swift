@@ -47,6 +47,7 @@ struct ClippingCell: View
                     Text(representation!.stringValue!)
                         .font(.subheadline)
                         .lineLimit(6)
+                        .foregroundColor(.black)
                 }
             }
             .padding(.horizontal, nil)
